@@ -29,10 +29,9 @@
 
 <div align="center">
     <br></br> 
-    <font size="10">
+    <font size="20">
         🌻
     </font>
-    <br></br>
     <b><p>With god grace, we will rise and shine</p></b>
     <p>Dengan rahmat tuhan, kita akan bangkit dan bersinar</p>
 </div>
