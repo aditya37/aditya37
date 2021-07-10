@@ -18,6 +18,18 @@
 </br>
 </br>
 
+## 🛠 Skills
+
+| Skill Name | Grade | Description
+| --- | --- | --- |
+|Backend|🌟🌟🌟🌟🌟|Build some apps backend with Go (gRPC,Protobuf) and database (MySQL or PSQL)|
+| Microservice (Go)| 🌟🌟🌟 | Build backend with microservice(gRPC,go-kit) architecture
+| Database | 🌟🌟🌟🌟🌟 | Design database schema |
+| DevOps | 🌟🌟🌟 | Build infrastructure
+| [🕔 On Progress] Apache Kafka| 🌟🌟🌟| Consume or produce event with kafka and integrate with Go or another programming language
+| [🕔 On Progress] Kubernetes | 🌟🌟 | -
+</br>
+
 ## 📌 Pinned Project
 | Project Name | Repository | Description
 | --- | --- | --- |
